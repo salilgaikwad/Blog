@@ -7,6 +7,10 @@ BlogNew::Application.configure do
   FACEBOOK_SECRET = 'dbb27ed4fb6916b705f474cd38aa8169'
   GOOGLE_KEY = '343770407745.apps.googleusercontent.com'
   GOOGLE_SECRET = 'FtKxZQ7RzZtOPdlBk-O34wmI'
+
+
+
+  ng
   # The test environment is used exclusively to run your application's
   # test suite. You never need to work with it otherwise. Remember that
   # your test database is "scratch space" for the test suite and is wiped
