@@ -1,6 +1,12 @@
 BlogNew::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
 
+  TWITTER_KEY = 'jFSy9pjWB78la2tZkRe88w'
+  TWITTER_SECRET = 'c6LnJ1GDTUOU8e8VJqM6UzAFky8HoHfCKVyQdh3dlA'
+  FACEBOOK_KEY = '258628374269591'
+  FACEBOOK_SECRET = 'dbb27ed4fb6916b705f474cd38aa8169'
+  GOOGLE_KEY = '343770407745.apps.googleusercontent.com'
+  GOOGLE_SECRET = 'FtKxZQ7RzZtOPdlBk-O34wmI'
   # The test environment is used exclusively to run your application's
   # test suite. You never need to work with it otherwise. Remember that
   # your test database is "scratch space" for the test suite and is wiped
